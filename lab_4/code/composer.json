@@ -1,0 +1,11 @@
+{
+  "name": "dizaster/code",
+  "autoload": {
+    "psr-4": {
+      "Dizaster\\Code\\": "src/"
+    }
+  },
+  "require": {
+    "google/apiclient": "^2.16"
+  }
+}
